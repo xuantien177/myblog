@@ -1,5 +1,3 @@
 ﻿Date,Title,Severity,Summary,Description,Mitigation,References
-2025-10-16,CWE-20: Improper Input Validation ,Medium,Đây là mô tả,"SOS
-GDHG
-42356YRTUJH",Đây là khuyến cáo bro,Tham khảo đây nhé
-2025-10-16,OWASP A1:2021-Broken Access Control: Incorrect Authorization,High,Người dùng có thể thực hiện các hành động nằm ngoài các quyền đã được cấp phát.,Vị trí lỗ hổng:,Phân quyền chính xác,
+10/10/2025,CWE-20: Improper Input Validation ,Medium,Đây là mô tả,"SOS\nGDHG\n42356YRTUJH",Đây là khuyến cáo bro,Tham khảo đây nhé
+10/10/2025,OWASP A1:2021-Broken Access Control: Incorrect Authorization,High,Người dùng có thể thực hiện các hành động nằm ngoài các quyền đã được cấp phát.,Vị trí lỗ hổng:,Phân quyền chính xác,
