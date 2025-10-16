@@ -1,3 +1,6 @@
-﻿Date,Title,Severity,Summary,Description,Mitigation,References
-10/10/2025,CWE-20: Improper Input Validation ,Medium,Đây là mô tả,"SOS\nGDHG\n42356YRTUJH",Đây là khuyến cáo bro,Tham khảo đây nhé
-10/10/2025,OWASP A1:2021-Broken Access Control: Incorrect Authorization,High,Người dùng có thể thực hiện các hành động nằm ngoài các quyền đã được cấp phát.,Vị trí lỗ hổng:,Phân quyền chính xác,
+Date,Title,CweId,Url,Severity,Description,Mitigation,Impact,References,Active,Verified,FalsePositive,Duplicate
+28/02/2021,ASDF,1,https://vulnerable.endpoint.com/resource1/asdf,Low,Xin chào,Some mitigation advice,Some Impact,,TRUE,TRUE,FALSE,FALSE
+28/02/2021,ASDF,2,https://vulnerable.endpoint.com/resource2/qwerty,Low,Mèo,Some mitigation advice,Some Impact,,TRUE,TRUE,FALSE,FALSE
+28/02/2021,ASDF,3,https://vulnerable.endpoint.com/resource3/asdf,Low,Chó,Some mitigation advice,Some Impact,,TRUE,TRUE,FALSE,FALSE
+28/02/2021,ASDF,4,https://vulnerable.endpoint.com/resource4/asdf,Low,Some description,Some mitigation advice,Some Impact,,TRUE,TRUE,FALSE,FALSE
+28/02/2021,ASDF,5,https://vulnerable.endpoint.com/resource5/asdf,Low,Some description,Some mitigation advice,Some Impact,,TRUE,TRUE,FALSE,FALSE
